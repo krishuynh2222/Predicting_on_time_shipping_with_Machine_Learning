@@ -3,7 +3,7 @@
 **Dataset Name:** Amazon Delivery Dataset  
 **Source:** Kaggle – Created by Sujal Suthar  
 **Dataset Link:** https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset
-**Mentor**: Mike Hudson 
+**Mentor:** Mike Hudson 
 
 ## Introduction 
 The rapid acceleration of the e-commerce sector has made on-time package delivery the single most important determinant of customer loyalty and logistical success. Consequently, logistics networks are under immense pressure to achieve high service reliability. Predicting the timeliness of a shipment is a highly dimensional challenge influenced by dynamic variables such as traffic, weather, area, route distance, and the performance history of the delivery agent.
